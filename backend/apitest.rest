@@ -1,0 +1,13 @@
+get http://localhost:2222/signup
+
+
+###
+post http://localhost:2222/signup
+Content-Type: application/json
+
+{
+    "name":"vicky1",
+    "mobile":"43433",
+    "email":"v1@gmail.com",
+    "password":"1234"   
+}
