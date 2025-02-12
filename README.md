@@ -119,5 +119,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-_Developed with ❤️ by [Your Name](https://github.com/yourusername)_
+_Developed with ❤️ by Vicky
 
